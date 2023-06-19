@@ -1,0 +1,28 @@
+#+title: "Review Book Economix"
+#+author: Viet Nguyen
+#+date: <2023-05-17 Wed>
+#+categories[]: books review
+#+tags[]: books review
+#+draft: false
+
+* Book Title and Author
+"Economix: How and Why Our Economy Works (and Doesn't Work), in Words and Pictures" by Michael Goodwin and Dan E. Burr
+
+* Synopsis
+"Economix" is a graphic non-fiction book that provides an entertaining and informative overview of the history and functioning of the global economy. The book covers a wide range of topics, including the rise of capitalism, the Great Depression, globalization, free trade, income inequality, and the financial crisis of 2008. The authors use easily understandable illustrations and witty writing to explain complex economic concepts, making the book accessible to readers with little to no background in economics.
+
+* Review
+"Economix" is an excellent resource for anyone who is interested in learning about the global economy and how it functions. The book's use of illustrations and witty writing makes the material easy to understand and engaging to read. The authors do an exceptional job of covering a wide range of topics and providing readers with an overview of the economic history that has shaped our modern world.
+
+One of the strengths of "Economix" is its ability to explain complex economic concepts in a way that is approachable and accessible. The use of graphics and illustrations makes the information easier to digest, even for readers who have limited knowledge of economics. Additionally, the authors provide context for key economic events, making it easier to understand their significance in the overall picture.
+
+Another strength of the book is the way it presents a balanced perspective on economic issues. The authors do not shy away from presenting critiques of capitalism or providing evidence of how certain economic policies have resulted in negative outcomes. At the same time, the book acknowledges the benefits that capitalism has brought society, and it highlights how certain economic policies have led to increased prosperity for many people.
+
+Overall, "Economix" is an informative and engaging book that is suitable for anyone who wants to learn more about the global economy. The book's combination of visuals and well-written explanations provides readers with an in-depth understanding of economic concepts and the history that has shaped our world. Whether you have a background in economics or are just starting to learn about the subject, "Economix" is a must-read.
+
+* 3 things learnt
+1. The book introduces readers to the basics of economics, including the different economic systems and their strengths and weaknesses. It teaches about the history of the economic system, from feudalism to capitalism, and how it has evolved over time to become the global economic system.
+
+2. The book also teaches readers about how global economic policy decisions are made and how they affect people's lives. It provides an understanding of the role of government, corporations, and individuals in the economy, and the impact of trade and globalization on the global economic system.
+
+3. "Economix" also highlights the importance of regulation and oversight in the economy to protect consumers, prevent monopolies, and ensure a fair and competitive market. The book explains the role of financial regulations, particularly in preventing systemic risks, and the consequences of inadequate regulation, using the 2008 financial crisis as an example.

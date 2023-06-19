@@ -1,0 +1,25 @@
+#+title: "I Try Chatgpt"
+#+author: Viet Nguyen
+#+date: <2023-01-05 10:08:34+07:00>
+#+categories[]: chatgpt ai
+#+tags[]: chatgpt ai
+#+draft: false
+
+* Can chatGPT generate non English language
+I am very interest with chatGPT when first time heard of it. I also want use it with Vietnamese language which is my mother language. I also want to test my blog can display Vietnamese character.
+
+* Ask chatGPT for Vietnamese blog sample
+I am quite supprise to see chatGPT can generate Vietnamese blog. It mean people training chatGPT have used Vietnamese language data.
+
+A result very supprise. All sentences and it's meaning very like human writing. However, literary style still like machine, not smooth. The places mention in sample is correct and exist in reality, but still have 1 place wrong is ~Dinh Độc Lập~ which only in Ho Chi Minh city.
+#+begin_quote
+Đi du lịch Đà Lạt
+
+Hôm nay, tôi đi du lịch đến thành phố Đà Lạt. Thành phố này rất nổi tiếng với những con phố dọc theo dốc núi và các khu vườn hoa đẹp.
+
+Tôi đi từ Sài Gòn bằng xe buýt, điểm đến cuối cùng là trạm xe buýt Đà Lạt. Từ đó, tôi đi bộ tới khách sạn của mình và gửi hành lý. Sau đó, tôi đi dạo quanh thành phố để khám phá những điểm du lịch nổi tiếng của Đà Lạt.
+
+Đầu tiên, tôi đến thăm Chùa Linh Phước. Chùa này rất đẹp và yên tĩnh, có rất nhiều tấm bản đồ cổ và các bức tranh minh họa các câu chuyện Phật giáo. Sau đó, tôi đi thăm Công viên Liên hoa, một khu vườn hoa lớn với hàng ngàn loài hoa khác nhau. Tôi cũng đã đi thăm Dinh Độc Lập và tham quan quảng trường Trần Hưng Đạo.
+
+Tôi cũng đã thưởng thức một số món ăn Đà Lạt nổi tiếng, bao gồm cơm rang me và bánh trôi nước. Tôi cũng đã mua một số quà cho gia đình và bạ
+#+end_quote

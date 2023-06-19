@@ -1,0 +1,6 @@
+[submodule "themes/thirdhemisphere"]
+	path = themes/thirdhemisphere
+	url = https://github.com/pprevos/hugo-thirdhemisphere
+[submodule "themes/loveit"]
+	path = themes/loveit
+	url = https://github.com/dillonzq/LoveIt.git
