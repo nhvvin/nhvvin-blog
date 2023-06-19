@@ -1,4 +1,4 @@
-#+title: "Review Book Economix"
+#+title: Review Book Economix
 #+author: Viet Nguyen
 #+date: <2023-05-17 Wed>
 #+categories[]: books review
