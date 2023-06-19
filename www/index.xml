@@ -4,10 +4,45 @@
         <link>https://nhvvin.com/</link>
         <description>This is my cool blogs</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>nhv.vin@gmail.com (Viet Nguyen)</managingEditor>
-            <webMaster>nhv.vin@gmail.com (Viet Nguyen)</webMaster><lastBuildDate>Wed, 17 May 2023 00:00:00 &#43;0000</lastBuildDate>
+            <webMaster>nhv.vin@gmail.com (Viet Nguyen)</webMaster><lastBuildDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</lastBuildDate>
             <atom:link href="https://nhvvin.com/index.xml" rel="self" type="application/rss+xml" />
         <item>
-    <title>&#34;Review Book Economix&#34;</title>
+    <title>Embracing the Power of Emacs Org Mode</title>
+    <link>https://nhvvin.com/using-chat-gpt-to-generate-blog-with-org-mode/</link>
+    <pubDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/using-chat-gpt-to-generate-blog-with-org-mode/</guid>
+    <description><![CDATA[Introduction Org mode is one of the most powerful and versatile tools for productivity in the world of Emacs. What started as a simple outlining tool, Org mode has grown into a comprehensive system for managing tasks, organizing notes, writing documents, and even publishing blog posts. In this blog post, we will explore some of the key features of Org mode and how it can revolutionize your workflow.
+Task Management One of the standout features of Org mode is its robust task management capabilities.]]></description>
+</item>
+<item>
+    <title>Exploring the Wonders of Machine Learning with Python</title>
+    <link>https://nhvvin.com/exploring-the-wonders-of-machine-learning-with-python/</link>
+    <pubDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/exploring-the-wonders-of-machine-learning-with-python/</guid>
+    <description><![CDATA[Introduction Machine learning has revolutionized various industries, from finance to healthcare, by enabling computers to learn and make intelligent decisions. Python, with its extensive libraries and frameworks, has become the go-to language for machine learning practitioners. In this blog post, we will dive into the fascinating world of machine learning and explore some popular Python tools and techniques.
+What is Machine Learning? Machine learning is a subfield of artificial intelligence that focuses on developing algorithms and models that allow computers to learn from data and make predictions or decisions without being explicitly programmed.]]></description>
+</item>
+<item>
+    <title>Overcoming Common Challenges in CI/CD Implementation</title>
+    <link>https://nhvvin.com/overcoming-common-challenges-in-ci-cd-implementation/</link>
+    <pubDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/overcoming-common-challenges-in-ci-cd-implementation/</guid>
+    <description><![CDATA[Introduction Continuous Integration and Continuous Deployment (CI/CD) practices have revolutionized software development by enabling faster and more frequent releases while maintaining code quality and stability. However, implementing CI/CD pipelines comes with its share of challenges. In this blog post, we will explore some of the common hurdles faced during CI/CD implementation and ways to overcome them.
+Challenge 1: Infrastructure Management A key challenge in CI/CD implementation is setting up and maintaining the infrastructure required for running the pipeline.]]></description>
+</item>
+<item>
+    <title>Singapore: A Rich Country with a Dark Future?</title>
+    <link>https://nhvvin.com/singapore-a-rich-country-with-a-dark-future-/</link>
+    <pubDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</pubDate>
+    <author>Viet Nguyen</author>
+    <guid>https://nhvvin.com/singapore-a-rich-country-with-a-dark-future-/</guid>
+    <description><![CDATA[Introduction Singapore, often hailed as a shining example of economic success, has achieved remarkable prosperity over the years. With its strong financial sector, modern infrastructure, and efficient government, the city-state has become one of the wealthiest nations in the world. However, beneath this prosperity lies a set of challenges that could potentially cast a shadow over Singapore&#39;s future. In this blog post, we will explore some of the factors contributing to Singapore&#39;s potential dark future despite its current wealth.]]></description>
+</item>
+<item>
+    <title>Review Book Economix</title>
     <link>https://nhvvin.com/posts/review-book-economix/</link>
     <pubDate>Wed, 17 May 2023 00:00:00 &#43;0000</pubDate>
     <author>Viet Nguyen</author>
@@ -16,7 +51,7 @@
 Synopsis &#34;Economix&#34; is a graphic non-fiction book that provides an entertaining and informative overview of the history and functioning of the global economy. The book covers a wide range of topics, including the rise of capitalism, the Great Depression, globalization, free trade, income inequality, and the financial crisis of 2008.]]></description>
 </item>
 <item>
-    <title>&#34;I Try Chatgpt&#34;</title>
+    <title>I Try Chatgpt</title>
     <link>https://nhvvin.com/posts/i-try-chatgpt/</link>
     <pubDate>Thu, 05 Jan 2023 00:00:00 &#43;0000</pubDate>
     <author>Viet Nguyen</author>
