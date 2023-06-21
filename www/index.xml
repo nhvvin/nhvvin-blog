@@ -1,6 +1,6 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>VIN Blogs</title>
+        <title>Viet Nguyen</title>
         <link>https://nhvvin.com/</link>
         <description>This is my cool blogs</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>nhv.vin@gmail.com (Viet Nguyen)</managingEditor>

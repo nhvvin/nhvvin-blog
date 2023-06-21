@@ -1,8 +1,8 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title>orgmode - Tag - VIN Blogs</title>
+        <title>orgmode - Tag - Viet Nguyen</title>
         <link>https://nhvvin.com/tags/orgmode/</link>
-        <description>orgmode - Tag - VIN Blogs</description>
+        <description>orgmode - Tag - Viet Nguyen</description>
         <generator>Hugo -- gohugo.io</generator><language>en-us</language><managingEditor>nhv.vin@gmail.com (Viet Nguyen)</managingEditor>
             <webMaster>nhv.vin@gmail.com (Viet Nguyen)</webMaster><lastBuildDate>Mon, 19 Jun 2023 00:00:00 &#43;0000</lastBuildDate><atom:link href="https://nhvvin.com/tags/orgmode/" rel="self" type="application/rss+xml" /><item>
     <title>Embracing the Power of Emacs Org Mode</title>
